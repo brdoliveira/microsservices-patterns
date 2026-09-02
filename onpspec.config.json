@@ -1,0 +1,25 @@
+{
+  "testCommand": "node scripts/onp-verify-tap.mjs",
+  "reporter": "tap",
+  "testGlobs": [
+    "**/src/test/java/**/*.java"
+  ],
+  "srcGlobs": [
+    "**/src/main/java/**/*.java",
+    "**/README.md",
+    "README.md",
+    "pom.xml",
+    "**/pom.xml"
+  ],
+  "ignoreGlobs": [
+    "node_modules/**",
+    ".git/**",
+    "dist/**",
+    "build/**",
+    "target/**",
+    ".mvn/**",
+    "coverage/**",
+    ".spec/**",
+    ".context/**"
+  ]
+}

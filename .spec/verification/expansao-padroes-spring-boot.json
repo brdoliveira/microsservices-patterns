@@ -1,0 +1,37 @@
+{
+  "feature": "expansao-padroes-spring-boot",
+  "timestamp": "2026-09-02T01:16:26.866Z",
+  "gitRev": "c83b812",
+  "command": "node scripts/onp-verify-tap.mjs",
+  "reporter": "tap",
+  "exitCode": 0,
+  "testsParsed": 14,
+  "results": {
+    "AC-010": {
+      "status": "pass",
+      "testName": "@spec:AC-010 README raiz lista novos padroes",
+      "method": "tap"
+    },
+    "AC-011": {
+      "status": "pass",
+      "testName": "@spec:AC-011 novos padroes tem README e Spring",
+      "method": "tap"
+    },
+    "AC-012": {
+      "status": "pass",
+      "testName": "@spec:AC-012 padroes existentes tem componentes Spring",
+      "method": "tap"
+    },
+    "AC-013": {
+      "status": "pass",
+      "testName": "@spec:AC-013 todos os padroes tem testes comportamentais",
+      "method": "tap"
+    },
+    "AC-014": {
+      "status": "pass",
+      "testName": "@spec:AC-014 verificacao ONP emite TAP da expansao",
+      "method": "tap"
+    }
+  },
+  "principles": {}
+}

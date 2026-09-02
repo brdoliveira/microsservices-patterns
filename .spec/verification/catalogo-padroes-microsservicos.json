@@ -1,0 +1,57 @@
+{
+  "feature": "catalogo-padroes-microsservicos",
+  "timestamp": "2026-09-02T01:16:22.319Z",
+  "gitRev": "c83b812",
+  "command": "node scripts/onp-verify-tap.mjs",
+  "reporter": "tap",
+  "exitCode": 0,
+  "testsParsed": 14,
+  "results": {
+    "AC-001": {
+      "status": "pass",
+      "testName": "@spec:AC-001 README raiz apresenta os padroes disponiveis",
+      "method": "tap"
+    },
+    "AC-002": {
+      "status": "pass",
+      "testName": "@spec:AC-002 README raiz redireciona para cada pasta",
+      "method": "tap"
+    },
+    "AC-003": {
+      "status": "pass",
+      "testName": "@spec:AC-003 cada pasta tem README explicativo",
+      "method": "tap"
+    },
+    "AC-004": {
+      "status": "pass",
+      "testName": "@spec:AC-004 README de padrao conecta catalogo",
+      "method": "tap"
+    },
+    "AC-005": {
+      "status": "pass",
+      "testName": "@spec:AC-005 cada padrao possui codigo Java",
+      "method": "tap"
+    },
+    "AC-006": {
+      "status": "pass",
+      "testName": "@spec:AC-006 codigo publico possui JavaDoc",
+      "method": "tap"
+    },
+    "AC-007": {
+      "status": "pass",
+      "testName": "@spec:AC-007 repositorio usa Java nos exemplos",
+      "method": "tap"
+    },
+    "AC-008": {
+      "status": "pass",
+      "testName": "@spec:AC-008 build valida exemplos Java",
+      "method": "tap"
+    },
+    "AC-009": {
+      "status": "pass",
+      "testName": "@spec:AC-009 verificacao protege estrutura",
+      "method": "tap"
+    }
+  },
+  "principles": {}
+}

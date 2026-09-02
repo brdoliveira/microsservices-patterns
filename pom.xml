@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>io.github.microservicespatterns</groupId>
+  <artifactId>microsservices-patterns</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>microsservices-patterns</name>
+  <description>Catalogo de padroes de microsservicos com exemplos em Java.</description>
+
+  <modules>
+    <module>api-gateway</module>
+    <module>service-discovery</module>
+    <module>circuit-breaker</module>
+    <module>bulkhead</module>
+    <module>database-per-service</module>
+    <module>saga</module>
+    <module>cqrs</module>
+    <module>event-driven-architecture</module>
+    <module>strangler-fig</module>
+    <module>externalized-configuration</module>
+    <module>outbox</module>
+    <module>idempotency</module>
+    <module>backends-for-frontends</module>
+    <module>retry-with-backoff</module>
+    <module>service-mesh</module>
+    <module>catalog-validation</module>
+  </modules>
+
+  <properties>
+    <maven.compiler.release>17</maven.compiler.release>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <junit.jupiter.version>5.11.4</junit.jupiter.version>
+    <spring.boot.version>4.1.1</spring.boot.version>
+  </properties>
+
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-dependencies</artifactId>
+        <version>${spring.boot.version}</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+      <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter</artifactId>
+        <version>${junit.jupiter.version}</version>
+        <scope>test</scope>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter</artifactId>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+      </plugin>
+    </plugins>
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <version>3.13.0</version>
+        </plugin>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-surefire-plugin</artifactId>
+          <version>3.5.2</version>
+        </plugin>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-javadoc-plugin</artifactId>
+          <version>3.11.2</version>
+          <configuration>
+            <failOnError>true</failOnError>
+            <doclint>all</doclint>
+          </configuration>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+  </build>
+</project>

@@ -1,0 +1,437 @@
+{
+  "schema": 1,
+  "sinais": {
+    "ARQUIVO_INEXISTENTE::catalogo-padroes-microsservicos::T-001": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "T-001",
+      "ocorrencias": 9,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.937Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_INEXISTENTE::catalogo-padroes-microsservicos::T-003": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "T-003",
+      "ocorrencias": 18,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.937Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_INEXISTENTE::catalogo-padroes-microsservicos::T-004": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "T-004",
+      "ocorrencias": 18,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.938Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_INEXISTENTE::catalogo-padroes-microsservicos::T-005": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "T-005",
+      "ocorrencias": 27,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.938Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_INEXISTENTE::catalogo-padroes-microsservicos::T-006": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "T-006",
+      "ocorrencias": 27,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.938Z",
+      "gitRev": "c83b812"
+    },
+    "AC_SEM_TESTE::catalogo-padroes-microsservicos::AC-001": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-001",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.938Z",
+      "gitRev": "c83b812"
+    },
+    "AC_SEM_TESTE::catalogo-padroes-microsservicos::AC-002": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-002",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.938Z",
+      "gitRev": "c83b812"
+    },
+    "AC_SEM_TESTE::catalogo-padroes-microsservicos::AC-003": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-003",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.938Z",
+      "gitRev": "c83b812"
+    },
+    "AC_SEM_TESTE::catalogo-padroes-microsservicos::AC-004": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-004",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.938Z",
+      "gitRev": "c83b812"
+    },
+    "AC_SEM_TESTE::catalogo-padroes-microsservicos::AC-005": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-005",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.938Z",
+      "gitRev": "c83b812"
+    },
+    "AC_SEM_TESTE::catalogo-padroes-microsservicos::AC-006": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-006",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.938Z",
+      "gitRev": "c83b812"
+    },
+    "AC_SEM_TESTE::catalogo-padroes-microsservicos::AC-007": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-007",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.938Z",
+      "gitRev": "c83b812"
+    },
+    "AC_SEM_TESTE::catalogo-padroes-microsservicos::AC-008": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-008",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.938Z",
+      "gitRev": "c83b812"
+    },
+    "AC_SEM_TESTE::catalogo-padroes-microsservicos::AC-009": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-009",
+      "ocorrencias": 3,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:20:29.938Z",
+      "gitRev": "c83b812"
+    },
+    "TESTE_ORFAO::—::AC-030": {
+      "codigo": "TESTE_ORFAO",
+      "feature": "—",
+      "ref": "AC-030",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:19:29.061Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::.context/npm-cache/_npx/f7ffc4ee4c8cdde9/node_modules/@onovoprogramador/onp-spec/README.md": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": ".context/npm-cache/_npx/f7ffc4ee4c8cdde9/node_modules/@onovoprogramador/onp-spec/README.md",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:19:29.061Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::.context/onp-spec-driven.fzL4id/README.md": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": ".context/onp-spec-driven.fzL4id/README.md",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:19:29.061Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::.context/onp-spec-driven.fzL4id/benchmark/README.md": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": ".context/onp-spec-driven.fzL4id/benchmark/README.md",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:19:29.061Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::.context/onp-spec-driven.fzL4id/examples/inscricao-turma/README.md": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": ".context/onp-spec-driven.fzL4id/examples/inscricao-turma/README.md",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:19:29.061Z",
+      "gitRev": "c83b812"
+    },
+    "GLOB_SEM_ARQUIVOS::—::P-002": {
+      "codigo": "GLOB_SEM_ARQUIVOS",
+      "feature": "—",
+      "ref": "P-002",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-02T00:19:29.061Z",
+      "ultimaVez": "2026-09-02T00:19:55.969Z",
+      "gitRev": "c83b812"
+    },
+    "VERIFY_FALHOU::catalogo-padroes-microsservicos::AC-001": {
+      "codigo": "VERIFY_FALHOU",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-001",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:44:47.222Z",
+      "ultimaVez": "2026-09-02T00:44:47.222Z",
+      "gitRev": "c83b812"
+    },
+    "VERIFY_FALHOU::catalogo-padroes-microsservicos::AC-002": {
+      "codigo": "VERIFY_FALHOU",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-002",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:44:47.222Z",
+      "ultimaVez": "2026-09-02T00:44:47.222Z",
+      "gitRev": "c83b812"
+    },
+    "VERIFY_FALHOU::catalogo-padroes-microsservicos::AC-003": {
+      "codigo": "VERIFY_FALHOU",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-003",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:44:47.222Z",
+      "ultimaVez": "2026-09-02T00:44:47.222Z",
+      "gitRev": "c83b812"
+    },
+    "VERIFY_FALHOU::catalogo-padroes-microsservicos::AC-004": {
+      "codigo": "VERIFY_FALHOU",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-004",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:44:47.222Z",
+      "ultimaVez": "2026-09-02T00:44:47.222Z",
+      "gitRev": "c83b812"
+    },
+    "VERIFY_FALHOU::catalogo-padroes-microsservicos::AC-005": {
+      "codigo": "VERIFY_FALHOU",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-005",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:44:47.222Z",
+      "ultimaVez": "2026-09-02T00:44:47.222Z",
+      "gitRev": "c83b812"
+    },
+    "VERIFY_FALHOU::catalogo-padroes-microsservicos::AC-006": {
+      "codigo": "VERIFY_FALHOU",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-006",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:44:47.222Z",
+      "ultimaVez": "2026-09-02T00:44:47.222Z",
+      "gitRev": "c83b812"
+    },
+    "VERIFY_FALHOU::catalogo-padroes-microsservicos::AC-007": {
+      "codigo": "VERIFY_FALHOU",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-007",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:44:47.222Z",
+      "ultimaVez": "2026-09-02T00:44:47.222Z",
+      "gitRev": "c83b812"
+    },
+    "VERIFY_FALHOU::catalogo-padroes-microsservicos::AC-008": {
+      "codigo": "VERIFY_FALHOU",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-008",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:44:47.222Z",
+      "ultimaVez": "2026-09-02T00:44:47.222Z",
+      "gitRev": "c83b812"
+    },
+    "VERIFY_FALHOU::catalogo-padroes-microsservicos::AC-009": {
+      "codigo": "VERIFY_FALHOU",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-009",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:44:47.222Z",
+      "ultimaVez": "2026-09-02T00:44:47.222Z",
+      "gitRev": "c83b812"
+    },
+    "PROVA_FRACA::catalogo-padroes-microsservicos::AC-001": {
+      "codigo": "PROVA_FRACA",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-001",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:52.921Z",
+      "gitRev": "c83b812"
+    },
+    "PROVA_FRACA::catalogo-padroes-microsservicos::AC-002": {
+      "codigo": "PROVA_FRACA",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-002",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:52.922Z",
+      "gitRev": "c83b812"
+    },
+    "PROVA_FRACA::catalogo-padroes-microsservicos::AC-003": {
+      "codigo": "PROVA_FRACA",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-003",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:52.922Z",
+      "gitRev": "c83b812"
+    },
+    "PROVA_FRACA::catalogo-padroes-microsservicos::AC-004": {
+      "codigo": "PROVA_FRACA",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-004",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:52.922Z",
+      "gitRev": "c83b812"
+    },
+    "PROVA_FRACA::catalogo-padroes-microsservicos::AC-005": {
+      "codigo": "PROVA_FRACA",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-005",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:52.922Z",
+      "gitRev": "c83b812"
+    },
+    "PROVA_FRACA::catalogo-padroes-microsservicos::AC-006": {
+      "codigo": "PROVA_FRACA",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-006",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:52.922Z",
+      "gitRev": "c83b812"
+    },
+    "PROVA_FRACA::catalogo-padroes-microsservicos::AC-007": {
+      "codigo": "PROVA_FRACA",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-007",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:52.922Z",
+      "gitRev": "c83b812"
+    },
+    "PROVA_FRACA::catalogo-padroes-microsservicos::AC-008": {
+      "codigo": "PROVA_FRACA",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-008",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:52.922Z",
+      "gitRev": "c83b812"
+    },
+    "PROVA_FRACA::catalogo-padroes-microsservicos::AC-009": {
+      "codigo": "PROVA_FRACA",
+      "feature": "catalogo-padroes-microsservicos",
+      "ref": "AC-009",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:52.922Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::api-gateway/src/main/java/io/github/microservicespatterns/apigateway/ApiGatewayExample.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "api-gateway/src/main/java/io/github/microservicespatterns/apigateway/ApiGatewayExample.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:26.701Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::bulkhead/src/main/java/io/github/microservicespatterns/bulkhead/BulkheadExample.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "bulkhead/src/main/java/io/github/microservicespatterns/bulkhead/BulkheadExample.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:26.701Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::circuit-breaker/src/main/java/io/github/microservicespatterns/circuitbreaker/CircuitBreakerExample.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "circuit-breaker/src/main/java/io/github/microservicespatterns/circuitbreaker/CircuitBreakerExample.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:26.701Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::cqrs/src/main/java/io/github/microservicespatterns/cqrs/CqrsExample.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "cqrs/src/main/java/io/github/microservicespatterns/cqrs/CqrsExample.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:26.701Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::database-per-service/src/main/java/io/github/microservicespatterns/databaseperservice/DatabasePerServiceExample.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "database-per-service/src/main/java/io/github/microservicespatterns/databaseperservice/DatabasePerServiceExample.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:26.701Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::event-driven-architecture/src/main/java/io/github/microservicespatterns/eventdriven/EventDrivenArchitectureExample.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "event-driven-architecture/src/main/java/io/github/microservicespatterns/eventdriven/EventDrivenArchitectureExample.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:26.701Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::externalized-configuration/src/main/java/io/github/microservicespatterns/externalizedconfiguration/ExternalizedConfigurationExample.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "externalized-configuration/src/main/java/io/github/microservicespatterns/externalizedconfiguration/ExternalizedConfigurationExample.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:26.701Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::saga/src/main/java/io/github/microservicespatterns/saga/SagaExample.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "saga/src/main/java/io/github/microservicespatterns/saga/SagaExample.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:26.701Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::service-discovery/src/main/java/io/github/microservicespatterns/servicediscovery/ServiceDiscoveryExample.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "service-discovery/src/main/java/io/github/microservicespatterns/servicediscovery/ServiceDiscoveryExample.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:26.701Z",
+      "gitRev": "c83b812"
+    },
+    "ARQUIVO_ORFAO::—::strangler-fig/src/main/java/io/github/microservicespatterns/stranglerfig/StranglerFigExample.java": {
+      "codigo": "ARQUIVO_ORFAO",
+      "feature": "—",
+      "ref": "strangler-fig/src/main/java/io/github/microservicespatterns/stranglerfig/StranglerFigExample.java",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-09-02T00:45:26.701Z",
+      "ultimaVez": "2026-09-02T00:45:26.701Z",
+      "gitRev": "c83b812"
+    }
+  }
+}

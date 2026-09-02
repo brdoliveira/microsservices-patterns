@@ -1,0 +1,204 @@
+{
+  "runId": "kuala-lumpur-catalogo-padroes-microsservicos-mtjcnsgu",
+  "feature": "catalogo-padroes-microsservicos",
+  "agent": "codex",
+  "modo": "paralelo",
+  "paralelizar": null,
+  "modeloForcado": null,
+  "esforcoForcado": null,
+  "geradoEm": "2026-09-02 00:20",
+  "branchTrabalho": "spec/catalogo-padroes-microsservicos",
+  "baseDir": ".spec/features/catalogo-padroes-microsservicos",
+  "specDir": ".spec",
+  "repoName": "kuala-lumpur",
+  "logsDir": "../onp-worktrees/kuala-lumpur-catalogo-padroes-microsservicos-logs",
+  "ondas": [
+    [
+      "faixa-1",
+      "faixa-2",
+      "faixa-3"
+    ],
+    [
+      "faixa-4",
+      "faixa-5",
+      "faixa-6"
+    ]
+  ],
+  "faixas": [
+    {
+      "id": "faixa-1",
+      "branch": "spec/catalogo-padroes-microsservicos-faixa-1",
+      "worktree": "../onp-worktrees/kuala-lumpur-catalogo-padroes-microsservicos-faixa-1",
+      "tarefas": [
+        {
+          "id": "T-001",
+          "titulo": "Configurar base Java e verificacoes do catalogo",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "pom.xml",
+            "catalog-validation/src/test/java",
+            "catalog-validation/pom.xml"
+          ],
+          "refs": [
+            "US-003",
+            "US-004",
+            "AC-006",
+            "AC-008",
+            "AC-009"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-2",
+      "branch": "spec/catalogo-padroes-microsservicos-faixa-2",
+      "worktree": "../onp-worktrees/kuala-lumpur-catalogo-padroes-microsservicos-faixa-2",
+      "tarefas": [
+        {
+          "id": "T-002",
+          "titulo": "Escrever README raiz com indice dos padroes",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "README.md"
+          ],
+          "refs": [
+            "US-001",
+            "AC-001",
+            "AC-002"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-3",
+      "branch": "spec/catalogo-padroes-microsservicos-faixa-3",
+      "worktree": "../onp-worktrees/kuala-lumpur-catalogo-padroes-microsservicos-faixa-3",
+      "tarefas": [
+        {
+          "id": "T-003",
+          "titulo": "Documentar e exemplificar padroes de entrada e descoberta",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "api-gateway/README.md",
+            "api-gateway/pom.xml",
+            "api-gateway/src/main/java",
+            "service-discovery/README.md",
+            "service-discovery/pom.xml",
+            "service-discovery/src/main/java"
+          ],
+          "refs": [
+            "US-002",
+            "US-003",
+            "AC-003",
+            "AC-004",
+            "AC-005",
+            "AC-006",
+            "AC-007"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-4",
+      "branch": "spec/catalogo-padroes-microsservicos-faixa-4",
+      "worktree": "../onp-worktrees/kuala-lumpur-catalogo-padroes-microsservicos-faixa-4",
+      "tarefas": [
+        {
+          "id": "T-004",
+          "titulo": "Documentar e exemplificar padroes de resiliencia",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "circuit-breaker/README.md",
+            "circuit-breaker/pom.xml",
+            "circuit-breaker/src/main/java",
+            "bulkhead/README.md",
+            "bulkhead/pom.xml",
+            "bulkhead/src/main/java"
+          ],
+          "refs": [
+            "US-002",
+            "US-003",
+            "AC-003",
+            "AC-004",
+            "AC-005",
+            "AC-006",
+            "AC-007"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-5",
+      "branch": "spec/catalogo-padroes-microsservicos-faixa-5",
+      "worktree": "../onp-worktrees/kuala-lumpur-catalogo-padroes-microsservicos-faixa-5",
+      "tarefas": [
+        {
+          "id": "T-005",
+          "titulo": "Documentar e exemplificar padroes de dados e transacao",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "database-per-service/README.md",
+            "database-per-service/pom.xml",
+            "database-per-service/src/main/java",
+            "saga/README.md",
+            "saga/pom.xml",
+            "saga/src/main/java",
+            "cqrs/README.md",
+            "cqrs/pom.xml",
+            "cqrs/src/main/java"
+          ],
+          "refs": [
+            "US-002",
+            "US-003",
+            "AC-003",
+            "AC-004",
+            "AC-005",
+            "AC-006",
+            "AC-007"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-6",
+      "branch": "spec/catalogo-padroes-microsservicos-faixa-6",
+      "worktree": "../onp-worktrees/kuala-lumpur-catalogo-padroes-microsservicos-faixa-6",
+      "tarefas": [
+        {
+          "id": "T-006",
+          "titulo": "Documentar e exemplificar padroes de integracao e evolucao",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "event-driven-architecture/README.md",
+            "event-driven-architecture/pom.xml",
+            "event-driven-architecture/src/main/java",
+            "strangler-fig/README.md",
+            "strangler-fig/pom.xml",
+            "strangler-fig/src/main/java",
+            "externalized-configuration/README.md",
+            "externalized-configuration/pom.xml",
+            "externalized-configuration/src/main/java"
+          ],
+          "refs": [
+            "US-002",
+            "US-003",
+            "AC-003",
+            "AC-004",
+            "AC-005",
+            "AC-006",
+            "AC-007"
+          ]
+        }
+      ]
+    }
+  ],
+  "sequenciais": [],
+  "concluidas": [],
+  "avisos": []
+}
